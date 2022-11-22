@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: taxation-service
+
+server:
+  port: 8888
